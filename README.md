@@ -23,7 +23,7 @@ POSTMAN:
 USERS:
 
 -postman
-![get users](https://github.com/user-attachments/assets/21854900-449a-4e53-aa4b-244223ca0cff)
+![get users](https://github.com/user-attachments/assets/805fb9c1-3122-4bc9-8fa3-c1cf8223f479)
 
 -mongo
 ![mongodb users](https://github.com/user-attachments/assets/e46b0bcc-11b0-40d0-aecf-d178c629db1e)
@@ -31,7 +31,7 @@ USERS:
 PETS:
 
 -postman
-![get pets](https://github.com/user-attachments/assets/e7946ba7-180d-4a90-932f-860e6c8262bf)
+![get pets](https://github.com/user-attachments/assets/2d6500da-62d9-40b3-b688-0f87381b062a)
 
 -mongo
 ![mongodb pets](https://github.com/user-attachments/assets/f18c977d-f500-40f7-82aa-16fe9c7d7555)
